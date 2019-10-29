@@ -1,0 +1,13 @@
+regexp
+======
+
+operations
+    -pattern matching (grep)
+    -find and replace (sed)
+    -split  (awk)
+
+characteristics
+    -case sensitive
+    -match only once in a line
+    -sub strings
+    -greedy in nature

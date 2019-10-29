@@ -1,0 +1,22 @@
+data-types
+    scalar/simple
+        numeric (int, float, complex)
+        string (unicode)
+            -regular
+            -raw strings
+            -doc string
+            -bytes
+        boolean
+        NoneType (void, NULL)
+
+     collections
+        list (array)
+        tuple (readonly-list)
+        dict (hash, hash-map)
+        set (hashed-list)
+
+ sequences type/object (string, list, tuple)
+    operations
+        indexing
+        slicing
+        iteration

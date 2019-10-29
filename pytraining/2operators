@@ -1,0 +1,25 @@
+arithmetic
+    +, -, *, /, **, %
+    // (floor division)
+
+relational
+    >, >=, <, <=, ==, !=
+
+logical
+    and, or, not
+
+bitwise
+    &, |, ^, ~, <<, >>
+
+if else conditional operation (?:)
+    syntax:
+        true-part if test-condition else false-part
+identity operator
+    is, is not
+    example:
+        if type(item) is float:
+
+membership test operator
+    in, not in
+
+lambda operator (lambda function)

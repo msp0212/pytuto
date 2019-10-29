@@ -1,0 +1,25 @@
+fp = open(r'D:\Work\pythontest.txt')
+print("1")
+print(fp)
+print()
+fp.close()
+
+print("2")
+fp = open(r'D:\Work\pythontest.txt')
+for temp in fp:
+   print(temp, end='')
+print()
+fp.close()
+
+fp = open(r'D:\Work\pythontest.txt')
+print("3")
+print(fp.readline(10))
+print()
+fp.close()
+
+fp = open(r'D:\Work\pythontest.txt')
+print("4")
+print(fp.readlines())
+print()
+print(fp.flush())
+fp.close()

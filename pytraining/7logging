@@ -1,0 +1,6 @@
+logger
+    handler (where to log)  stream, file
+    formatter (what to log)
+
+log rollover
+    size based log rotation

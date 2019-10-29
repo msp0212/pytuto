@@ -1,0 +1,14 @@
+context manager using with
+==========================
+
+what ?
+    -programming construct
+
+why?
+    -to do IO efficiently
+
+how?
+    -code block
+    -handles events
+        -entry (alloc)
+        -exit  (free)

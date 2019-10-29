@@ -1,0 +1,18 @@
+OOP
+===
+
+class (template)
+object (instances)
+
+attributes (state)
+methods (behaviour)
+
+constructor
+destructor
+
+features
+========
+inheritance (reusable)
+polymorphism
+encapsulation / abstraction
+
