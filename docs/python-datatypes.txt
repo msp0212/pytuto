@@ -1,0 +1,30 @@
+#python datatypes
+
+-scalar datatypes
+	-numeric
+		-int
+		-float
+		-complex
+	-string: unicode strings
+		-regular
+		-raw
+		-doc
+		-byte
+	-boolean
+		-True
+		-False
+	-NoneType
+		-void
+		-NULL
+
+-collection datatypes
+	-list (array)
+	-tuple (read-only list)
+	-dict (hash)
+	-set (hashed-list)
+
+-string, list, tuple can be classified as sequence datatypes also.
+-sequence datatypes support extra operations like:
+	-indexing
+	-slicing
+	-iteration

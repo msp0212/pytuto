@@ -1,0 +1,32 @@
+#python operators
+
+-arithmetic
+	+, -, *, /, %
+	** (exponentiation)
+	// (floor division)
+
+-bitwise
+	&, |, ~, ^, <<, >>
+
+-relational
+	>, >= , <, <=, ==, !=
+
+-logical
+	and, or, not
+
+-identity
+	is, is not
+	-example
+		if type(var) is float
+
+-membership
+	in, not in
+
+-lambda function
+
+-if else conditional (similar to ?: in c)
+	-syntax:
+		true-part if test-cond else false-part
+
+
+

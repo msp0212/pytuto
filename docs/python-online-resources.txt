@@ -1,0 +1,10 @@
+#python documentation
+https://docs.python.org/3/
+
+#python package index
+https://pypi.org/
+
+#python3 module of the week
+https://pymotw.com/3/
+
+
